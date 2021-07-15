@@ -1,4 +1,6 @@
-### Hi 👋, I'm [Jindu!]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jindukwentua&label=Profile%20views&color=0e75b6&style=flat" alt="jindukwentua" /> </p>
+
+### Hi 👋, I'm Jindu!
 
 I am a Data Scientist from Lagos, Nigeria
 - 🔭 Working on data analysis, data science and machine learning  projects using R and Python
