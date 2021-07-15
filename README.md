@@ -26,7 +26,3 @@ I am a Data Scientist from Lagos, Nigeria.
 </p>
 
 ---
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
