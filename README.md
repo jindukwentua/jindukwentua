@@ -2,12 +2,12 @@
 
 ### Hi 👋, I'm Jindu!
 
-I am a Data Scientist from Lagos, Nigeria
+I am a Data Scientist from Lagos, Nigeria. 
 - 🔭 Working on data analysis, data science and machine learning  projects using R and Python
 - 🌱 Learning predictive data modelling and time series forecasting in depth
 - 😄 Employment ... **Open to new opportunities.**
 - ⚡ Fun fact ... **I play football in my spare time.**
-- 💬  Connect with, and ask me about anything [here!](https://twitter.com/jxndu)
+- 💬  Ask me about anything [here!](https://twitter.com/jxndu)
 - 📫 Send a [mail](mailto:talktojindukwentua@gmail.com)
 ---
 
