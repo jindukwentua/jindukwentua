@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindukwentua&label=Profile%20views&color=0e75b6&style=flat" alt="jindukwentua" /> </p>
 
-### Hi 👋, I'm Jindu! During the day, I'm a data driven backend engineer and at night, I am a Full stack Data Scientist. But, all day I solve problems using python.
+### Hi 👋, I'm Jindu! All day I solve problems using python.
 
 I am a Backend Engineer and Data Scientist from Lagos, Nigeria with a background in statistics, economics and programming.
 - 🔭 Working on data analysis, data science and machine learning  projects using R and Python
