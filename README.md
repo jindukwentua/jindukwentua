@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Jindu! 
 
-I am a Backend Engineer and Data Scientist from Lagos, Nigeria with a background in statistics, economics and programming.
+I am a Product Manager and Data Scientist from Lagos, Nigeria with a background in statistics, economics and programming.
 - 🔭 Working on data analysis, data science and machine learning  projects using R and Python
 - 🌱 Backend Web Development with the Express, Flask and Fastapi frameworks [Javascript and Python]
 - 😄 Employment ... **Open to new opportunities.**
